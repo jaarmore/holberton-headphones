@@ -4,6 +4,12 @@ In this project, you will implement from scratch, without any library, a web pag
 
 You won’t have a lot of instruction, you are free to implement it the way that you want - the objective is simple: Have a fully functional web page that looks the same as the designer file.
 
+Here the final result:
+
+<p align="center">
+    <img src="images/1.jpg" >
+</p>
+
 ## TASKS
 
 0. Read and be familiar with Figma
