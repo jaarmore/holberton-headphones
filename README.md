@@ -13,7 +13,6 @@ You won’t have a lot of instruction, you are free to implement it the way that
 4. Contact us
 5. Footer
 
-
 ### AUTHOR
 
 ### JACKSON MORENO
